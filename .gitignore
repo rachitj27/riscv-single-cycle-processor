@@ -1,0 +1,25 @@
+# Vivado
+*.jou
+*.log
+*.str
+*.wdb
+*.pb
+*.dcp
+.Xil/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.gen/
+xsim.dir/
+
+# Icarus Verilog
+*.vvp
+*.vcd
+processor_tb
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
